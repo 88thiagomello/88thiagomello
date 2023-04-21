@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Olá, me chamo Thiago Mello! 
 ## Bem vindo ao meu perfil GitHub 👋
 <!--
