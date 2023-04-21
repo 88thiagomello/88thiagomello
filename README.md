@@ -1,6 +1,6 @@
 ## Bem vindo 👋
 
-### Contatos:
+<center>### Contatos:<center>
 
 <div>
 <a href="https://www.instagram.com/88thiagomello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,11 +10,11 @@
 
 ---
 
-<center><div>
+<div>
 <a href="https://github.com/88thiagomello">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=88thiagomello&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=88thiagomello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div><center>
+</div>
 
 <!--
 Here are some ideas to get you started:
