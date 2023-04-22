@@ -15,7 +15,8 @@
 
 ### 👨‍💻 Sobre mim:
 
-- 🔭 Sou estagiário AWS Cloud Data Engineering na Compass Uol.
+- 📚 Cursando Big Data e Inteligência Analítica na Uniasselvi.
+- 🔭 Estagiário AWS Cloud Data Engineering na Compass Uol.
 - 🌱 O objetivo com o estágio é aprofundar conhecimentos em AWS Cloud Data Engineering, aprender sobre SQL, Python (incluindo ETL, Pandas e Numpy), componentes de nuvem como IAM, EC2, VPC, Lambda, Step Function, serviços analíticos como EMR, Glue, Athena, Quicksight, processamento de dados com Spark, visualização e modelagem de dados, e vivenciar ambiente de metodologia ágil.
 - 📫 Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/88thiagomello/)
 
@@ -31,9 +32,16 @@
 
 ---
 
-<table cellpadding="0">
+  <tr style="padding: 0">
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=88thiagomello&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=88thiagomello&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+  
+  <!--
+  <table cellpadding="0">
   <tr style="padding: 0">
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=88thiagomello&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=88thiagomello&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
+-->
