@@ -13,9 +13,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
 </h1>
 
-Olá, meu nome é Thiago Siqueira de Mello moro em Novo Hamburgo/RS.
-Estou cursando Big Data e Inteligência Analítica na Uniasselvi, e estou no segundo semestre do curso.
-Também sou Estagiário AWS Cloud Data Engineering na Compass Uol.
+### 👨‍💻 Sobre mim:
+
+- 🔭 Sou estagiário AWS Cloud Data Engineering na Compass Uol.
+- 🌱 O objetivo com o estágio é aprofundar conhecimentos em AWS Cloud Data Engineering, aprender sobre SQL, Python (incluindo ETL, Pandas e Numpy), componentes de nuvem como IAM, EC2, VPC, Lambda, Step Function, serviços analíticos como EMR, Glue, Athena, Quicksight, processamento de dados com Spark, visualização e modelagem de dados, e vivenciar ambiente de metodologia ágil.
+- 📫 Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/88thiagomello/)
+
+---
+
+### 🛠️  Linguagens e Ferramentas:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" heght="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" heght="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" heght="40"/>&nbsp;
+</div>
+
+---
 
 <table cellpadding="0">
   <tr style="padding: 0">
@@ -23,16 +37,3 @@ Também sou Estagiário AWS Cloud Data Engineering na Compass Uol.
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=88thiagomello&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
