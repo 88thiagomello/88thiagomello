@@ -34,3 +34,12 @@
 </div>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=88thiagomello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Thiago's github stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=88thiagomello&layout=compact&langs_count=7&theme=tokyonight" alt="Thiago's top languages" />
+  </a>
+</p>
