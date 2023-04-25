@@ -35,7 +35,7 @@
 
 ---
 
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=88thiagomello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Thiago's github stats" />
   </a>
