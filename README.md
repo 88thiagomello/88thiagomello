@@ -16,8 +16,6 @@
 ### 👨‍💻 Sobre mim:
 
 - 📚 Cursando Big Data e Inteligência Analítica na Uniasselvi.
-- 🔭 Estagiário AWS Cloud Data Engineering na Compass Uol.
-- 🌱 O objetivo com o estágio é aprofundar conhecimentos em AWS Cloud Data Engineering, aprender sobre SQL, Python (incluindo ETL, Pandas e Numpy), componentes de nuvem como IAM, EC2, VPC, Lambda, Step Function, serviços analíticos como EMR, Glue, Athena, Quicksight, processamento de dados com Spark, visualização e modelagem de dados, e vivenciar ambiente de metodologia ágil.
 - 📫 Como chegar até mim: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/88thiagomello/)
 
 ---
